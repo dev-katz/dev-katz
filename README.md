@@ -2,7 +2,7 @@
 <h1 align="center">Welcome 👋, I'm Prabudda Perera</h1>
 🌱Just a normal guy that loves to learn code and dev FiveM servers
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/898141754174353478/1122409747753205760/logo-comp.gif?ex=65506d89&is=653df889&hm=7f1dfe0eb4ba0ec35c451b9e133b86e3d0941ae50ab38504230878ed3cde5ccf&">
 
 
 
